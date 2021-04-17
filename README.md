@@ -14,4 +14,5 @@ Then the programme will automatically run the test for two models. One thing nee
 ## How to train the models.
 
 I am also happy if you want to try the complete code including training and testing. However, you need to first download a pre-trained embeeding from :[link](https://mega.nz/file/u4hFAJpK#UeZ5ERYod-SwrekW-qsPSsl-GYwLFQkh06lPTR7K93I). P.S. This is a 1.75Gb large file.<br>
-Put the download file into model folder and ensure the path would be **model/datastories.twitter.300d.txt**.I provide the ipython files in each task folder for my training code. For example, the code for task A would be at this path **A/ipyfile**. Run the ipython code from top to bottom, you will get the result. If you don't want to spend too much time to run the code, you can also check my training records which I also provide at the last part of ipython file.
+Put the download file into model folder and ensure the path would be **model/datastories.twitter.300d.txt**.<br>
+I provide the ipython files in each task folder for my training code. For example, the code for task A would be at this path **A/ipyfile**. Run the ipython code from top to bottom, you will get the result. If you don't want to spend too much time to run the code, you can also check my training records which I also provide at the last part of ipython file.
